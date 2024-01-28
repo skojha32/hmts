@@ -300,7 +300,7 @@ hr {
 /*--- main-header ---*/
 .main-header {
   height: 850px;
-  background: rgba(0, 0, 0, 0) url("../images/header-bg.jpg") no-repeat scroll center 0/cover; }
+  background: rgba(200, 21, 21, 0) url("../images/header-bg.jpg") no-repeat scroll center 0/cover; }
   .main-header .item {
     height: 850px;
     background-size: cover; }
